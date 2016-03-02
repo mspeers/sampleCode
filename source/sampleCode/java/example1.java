@@ -1,4 +1,4 @@
-package testcode;
+package sampleCode.java;
 
 public class example1 {
 
